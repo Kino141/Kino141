@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kino141
-- 👀 I’m interested in software and game development
+- 👀 I’m interested in software and game development, also, IT systems automation
 - 🌱 I’m currently learning how to code ETL systems and game AI
 - 💞️ I’m looking to collaborate on more game design projects
 
